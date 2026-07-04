@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2026 Isaac Thorn
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+[[annotations]]
+path = [".gitignore"]
+SPDX-FileCopyrightText = "2026 Isaac Thorn"
+SPDX-License-Identifier = "CC0-1.0"
