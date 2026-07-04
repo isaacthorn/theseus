@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2026 Isaac Thorn
+#
+# SPDX-License-Identifier: CC0-1.0
+
+* text=auto eol=lf
+
+*.{cpp,cc,cxx,c,h,hh,hpp,hxx} diff=cpp
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
+LICENSES/* linguist-detectable=false

@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Isaac Thorn
+#
+# SPDX-License-Identifier: CC0-1.0
+
+BasedOnStyle: LLVM
+ColumnLimit: 120
+IndentWidth: 4
