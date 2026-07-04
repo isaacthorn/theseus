@@ -10,3 +10,7 @@ SPDX-License-Identifier: CC-BY-4.0
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
 Theseus is a C++-based tool for automatic application scaffolding allowing reuse of swappable components.
+
+## Documentation
+
+Architectural decisions are recorded as [MADR](https://adr.github.io/madr/) 4.0.0 ADRs in [`docs/decisions`](docs/decisions).

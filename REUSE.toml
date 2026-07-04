@@ -8,3 +8,13 @@ version = 1
 path = [".gitignore"]
 SPDX-FileCopyrightText = "2026 Isaac Thorn"
 SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "docs/decisions/**"
+SPDX-FileCopyrightText = "2026 Isaac Thorn"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "docs/decisions/adr-template*"
+SPDX-FileCopyrightText = "2017-2022 Oliver Kopp, Olaf Zimmermann"
+SPDX-License-Identifier = "CC0-1.0"
